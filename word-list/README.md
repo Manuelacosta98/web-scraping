@@ -1,6 +1,3 @@
-
-This is the code for the "Build a Web Scraper" Live stream by @Sirajology on Youtube
-
 This script pulls the top x most frequently used words from a Wikipedia article. It uses regular expressions and stop word removal to create a cleaned table that we can view with the results
 
 #Installation
